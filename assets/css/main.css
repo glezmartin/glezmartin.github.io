@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: linear-gradient(45deg, #61E59F 15%, #61E59F 30%, #61E59F);
 			background-size: auto,							cover;
 		}
 
@@ -2917,7 +2917,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: linear-gradient(45deg, #8860d0 15%, #5ab9ea 30%, #5680e9);
+		background-image: linear-gradient(45deg, #1EC16B 15%, #2D918D 30%, #4A31D1);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3076,7 +3076,7 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: linear-gradient(45deg, #1EC16B 15%, #2D918D 30%, #4A31D1);
 			content: '';
 			height: 100%;
 			left: 0;
@@ -3113,7 +3113,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image:  linear-gradient(45deg, #8860d0 15%, #5ab9ea 30%, #5680e9);
+		background-image:  linear-gradient(45deg, #1EC16B 15%, #2D918D 30%, #4A31D1);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
